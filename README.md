@@ -379,7 +379,7 @@ This project is intended for educational and learning purposes only. The smart c
 
 ## Links
 
-- [Solana Version](https://github.com/yourusername/solana-simple-prediction-market-contract)
+- [Solana Version](https://github.com/SivaramPg/solana-simple-prediction-market-contract)
 - [Documentation](./doc/)
 - [Issues](https://github.com/yourusername/evm-simple-prediction-market-contract/issues)
 
